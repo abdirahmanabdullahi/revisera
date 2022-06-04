@@ -1,0 +1,19 @@
+.left{
+  width: 50%;
+  background-color: grey;
+}
+
+img{
+
+  max-width: 100%;
+  max-height: 100%;
+
+}
+
+.education{
+  margin-left: 10%;
+}
+
+.favicon{
+  font-size: 3rem;
+}

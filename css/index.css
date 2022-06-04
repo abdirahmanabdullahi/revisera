@@ -1,0 +1,46 @@
+img{
+width: 150px;
+
+}
+.navbar{
+  width: 100%;
+}
+.navbar-brand{
+  font-family: 'Jura', cursive;
+  color: white;
+ 
+}
+
+.navbar-brand:hover{
+
+  color: #A5BECC;
+}
+
+.right{
+  margin-left:  auto;
+  display: flex;
+  flex-direction:row;
+}
+
+.navbar{
+ background-color: #03045E;
+}
+
+.mavbar-brand{
+  font-family: 'Nova Square';
+font-size: 1.5rem;
+}
+
+.btn{
+  border: 1px solid white;
+  color: white;
+  font-family: 'Jura', cursive;
+  font-weight: bolder;
+
+}
+
+.hero{
+  width: 100vw;
+  height: 100vh;
+  background-image: url("images\iStock-1202587847.jpg");
+}
